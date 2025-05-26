@@ -99,3 +99,25 @@ p {
 img {
   border-radius: 5px;
 }
+
+.category-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.category-links li {
+  margin: 10px;
+}
+
+.category-link {
+  color: #0654b3;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.category-link:hover,
+.category-link:focus {
+  text-decoration: underline;
+}
