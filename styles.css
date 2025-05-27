@@ -91,7 +91,7 @@ p {
 
 .trivia-item span {
   background-color: #dde;
-  padding: 2rem 0.5rem;
+  padding: 2rem 0;
   margin-bottom: 1rem;
   border-radius: 5px;
   min-width: 432px;
